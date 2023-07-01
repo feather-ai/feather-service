@@ -1,6 +1,6 @@
 # Overview
 
-Service-Core, for lack of a better name, represents the core service of feather AI, coordinating logic between the various sub-components.
+feather-service, for lack of a better name, represents the core service of feather AI, coordinating logic between the various sub-components.
 
 ## Requirements
 
