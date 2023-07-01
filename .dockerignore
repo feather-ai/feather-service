@@ -1,0 +1,4 @@
+.vscode
+./service-core
+.local/
+Dockerfile
